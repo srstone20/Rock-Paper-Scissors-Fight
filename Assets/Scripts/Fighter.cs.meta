@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: bd0b27f005fd7c44ebca2e3424144caf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - defaultWeapon: {fileID: 4032724256489849450, guid: 4aece8ec58100014d90f6ea63d84353a, type: 3}
+  - hurt1: {instanceID: 0}
+  - hurt2: {instanceID: 0}
+  - hurt3: {instanceID: 0}
+  - hurt4: {instanceID: 0}
+  - hurt5: {instanceID: 0}
+  - hurt6: {instanceID: 0}
+  - hurt7: {instanceID: 0}
+  - hurt8: {instanceID: 0}
+  - hurt9: {instanceID: 0}
+  - lose1: {instanceID: 0}
+  - lose2: {instanceID: 0}
+  - lose3: {instanceID: 0}
+  - lose4: {instanceID: 0}
+  - lose5: {instanceID: 0}
+  - lose6: {instanceID: 0}
+  - lose7: {instanceID: 0}
+  - lose8: {instanceID: 0}
+  - lose9: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

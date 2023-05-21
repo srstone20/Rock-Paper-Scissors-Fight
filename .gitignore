@@ -1,0 +1,15 @@
+.vsconfig
+.plastic
+Assets_dst
+connectwebgl.zip
+ignore.conf
+Logs
+Library
+Packages
+RealWebGLBuild
+Temp
+UserSettings
+WebGL Builds
+WebGLBuild
+WebGLBuildRun
+webgl_sharing
